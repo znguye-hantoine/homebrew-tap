@@ -1,6 +1,6 @@
 cask "usage-meter" do
-  version "0.1.1"
-  sha256 "c374e8588a14af5f2be9473339d2cfd4f91702509f4c3ea0ba0dbf1798c0bf80"
+  version "0.1.2"
+  sha256 "64fef83268dec52f599564b792c01861d3e988237af0025b7625a5a6d2732c03"
 
   url "https://github.com/znguye-hantoine/homebrew-usage-meter/releases/download/usage-meter-v#{version}/Usage-Meter-#{version}.zip"
   name "Usage Meter"
