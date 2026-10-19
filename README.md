@@ -1,8 +1,13 @@
 # Usage Meter Homebrew tap
 
 ```sh
+brew trust znguye-hantoine/usage-meter
 brew install znguye-hantoine/usage-meter/usage-meter
 ```
+
+Homebrew only loads casks from taps you trust, so the first line is needed once. To update later, run `brew update && brew upgrade --cask usage-meter`.
+
+Prefer not to use Homebrew? Download the zip from the [latest release](https://github.com/znguye-hantoine/homebrew-usage-meter/releases/latest), unzip it and drag **Usage Meter.app** into Applications.
 
 ## Usage Meter
 
