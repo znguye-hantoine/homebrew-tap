@@ -1,7 +1,7 @@
-# Homebrew tap
+# Usage Meter Homebrew tap
 
 ```sh
-brew install znguye-hantoine/tap/usage-meter
+brew install znguye-hantoine/usage-meter/usage-meter
 ```
 
 ## Usage Meter
